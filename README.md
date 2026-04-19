@@ -6,10 +6,10 @@ This repository contains my notes, commands, labs, and troubleshooting exercises
 
 Topics included:
 
-Linux
-Networking
-Operating Systems
-System Administration
-Troubleshooting
+	•	Linux
+	•	Networking
+	•	Operating Systems
+	•	System Administration
+	•	Troubleshooting
 
 These notes are part of my learning journey into IT.
