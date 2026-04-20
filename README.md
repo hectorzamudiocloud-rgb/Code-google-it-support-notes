@@ -28,8 +28,7 @@ This repostory shows practical evidence of my IT learning and hands-on practice.
 Google IT Support Professional Certificate
 
 ##LinkedIn
-[
-](https://www.linkedin.com/in/hector-zamudio-4a8493400/)
+https://www.linkedin.com/in/hector-zamudio-4a8493400/
 
 ##Github
 This repository is part of my IT portfolio.
