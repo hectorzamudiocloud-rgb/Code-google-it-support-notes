@@ -1,15 +1,35 @@
-Code
+# Google IT Support Portafolio
 
-# Google IT Support Notes
+This repository contains my portafolio of notes, labs, screenshots, and projects completed while earning the Google IT Support Professional Certificate.
 
-This repository contains my notes, commands, labs, and troubleshooting exercises while completing the Goolge IT Support Professional Certificate .
+##Contents
+- Technical support notes
+- Networking notes
+- Operating systems notes
+- System administration notes
+- IT security notes
+- Hands-on labs
+- Screenshots and documentation
+- Final summary
 
-Topics included:
+##Skills Covered
+- Technical support
+- Networking fundamentals
+- Operating systems
+- System administration
+- IT security
+- Troubleshooting
+- Documentation
 
-	•	Linux
-	•	Networking
-	•	Operating Systems
-	•	System Administration
-	•	Troubleshooting
+##Portafolio Goal
+This repostory shows practical evidence of my IT learning and hands-on practice.
 
-These notes are part of my learning journey into IT.
+##Certificate
+Google IT Support Professional Certificate
+
+##LinkedIn
+[
+](https://www.linkedin.com/in/hector-zamudio-4a8493400/)
+
+##Github
+This repository is part of my IT portfolio.
